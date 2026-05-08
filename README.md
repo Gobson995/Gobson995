@@ -48,3 +48,11 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Gobson995&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gobson995&layout=compact&langs_count=7&theme=tokyonight&cache_seconds=1800"/>
 </p>
+
+## 🐍 Contribuições
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gobson995/Gobson995/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gobson995/Gobson995/output/github-contribution-grid-snake.svg"/>
+  <img alt="snake animation" src="https://raw.githubusercontent.com/Gobson995/Gobson995/output/github-contribution-grid-snake.svg"/>
+</picture>
